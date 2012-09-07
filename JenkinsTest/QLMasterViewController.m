@@ -10,6 +10,9 @@
 
 #import "QLDetailViewController.h"
 
+// Change uno
+
+
 @interface QLMasterViewController () {
     NSMutableArray *_objects;
 }
